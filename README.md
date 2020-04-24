@@ -88,7 +88,7 @@ To check that the uvcvideo moudle has bee loaded to the kernel type the follwing
 sudo lsmode\
 \
 If you can now find uvcvidoe you have successfuly installed librealsense on your virtual machine within Ubuntu Mate.\
-\
+
 
 
 
