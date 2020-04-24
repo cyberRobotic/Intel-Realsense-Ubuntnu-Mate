@@ -1,4 +1,4 @@
-# Intel-Realsense-Ubuntnu-Mate
+# Intel Realsense on Ubuntnu Mate by using vmWare
 
 This guide describes who to install Ubuntu Mate in vmWare and test a Intel Realsense Camera D415.
 
