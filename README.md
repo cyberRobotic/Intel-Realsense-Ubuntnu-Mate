@@ -82,7 +82,7 @@ You can run the follwing command to check if everything has been successfully in
 sudo modprobe uvcvideo\ 
 this command will load the uvcvideo module in to your running kernel.\
 \
-If you get an error message can not find this kernel try another kernel version on install ucvideo module manually from the website. Just contact mee if som problems occur her. It can bee a little bitt tricky to find out.\
+If you get an error message can not find this kernel try another kernel version on install ucvideo module manually from the website. Just contact mee if som problems occur her. It can bee a little bitt tricky to find a solution.\
 \
 To check that the uvcvideo moudle has bee loaded to the kernel type the follwing command.\
 sudo lsmode\
