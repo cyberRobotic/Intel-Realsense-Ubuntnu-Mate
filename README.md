@@ -3,7 +3,7 @@
 This guide describes who to install Ubuntu Mate in vmWare and test a Intel Realsense Camera D415.
 
 The first thing is to go to the following websites for downloading vmWare and Ubuntu Mate 32 bit version. 
-<https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html>
+<https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html>\
 <https://ubuntu-mate.org/download/i386/>
 
 To display your version of Ubuntu Mate type the follwing command in the terminal\
