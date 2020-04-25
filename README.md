@@ -135,6 +135,8 @@ Intel.RealSense.SDK-WIN10-2.33.1.1360.exe
 ```
 After the install librealsensviewer will open and you can know connect the Intel Realsense Depth Camera.  Know you are ready to try it out on your Windows 10 laptop.
 
+[!wathc the video](https://www.youtube.com/watch?v=okAsTDcDlpo&t=461s)
+
 ## Test Intel Realsense Depth 415 camera in vmWare with Ubuntu Mate
 To test your connectio with Intel Realsense Depth 415 camera navigate to 
 ```
