@@ -183,13 +183,12 @@ Go to the directory and excute the object file
 cd librealsense/examples/cmake
 ./hello_librealsense2
 ```
-If everything went well then the displayed output from the terminal is if everything went well than congratulation. You have now sucssefully instaled librealsense on Ubuntu Mate and are now ready to use it :smirk:. Follow mee on github to get more simple toturials for Raspberry PI with Ubuntu Mate, ROS, Control systems and offcourse librealsense.
+If everything went well then the displayed output from the terminal is
 ```
-
+hello from librealsense -2.34.0
+You have 1 RealSense devices connected
 ```
-
-
-
+Congratulation you have now sucssefully instaled librealsense on Ubuntu Mate and are now ready to use it :smirk:. Follow mee on github to get more simple toturials for Raspberry PI with Ubuntu Mate, ROS, Control systems and offcourse librealsense.
 
 
 
