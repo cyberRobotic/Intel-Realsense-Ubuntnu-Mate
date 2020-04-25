@@ -163,11 +163,11 @@ make
 
 This will genrate an object file with the name samme name as the cpp file. The exutable/ object file will bee in green 
 ```Diff
-hello_librealsense2
++ hello_librealsense2
 ```
 This object file is executable and you can excute it with the follwing command
 ```
-+ ./hello_librealsense2
+./hello_librealsense2
 ```
 This will give the follwing output if not a camera is connected.
 ```
