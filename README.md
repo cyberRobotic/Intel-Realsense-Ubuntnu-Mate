@@ -123,6 +123,26 @@ sudo lsmode
 ```
 If you can now find uvcvidoe you have successfuly installed librealsense on your virtual machine within Ubuntu Mate.
 
+## Test Intel Realsense Depth 415 camera in Windows 10 
+
+Before we are going to test the cameara in Windows 10 before the virtual machine. The first thing is to download and install Intel realsense viewer. Click the follwing link and download Intel realsense viewer\
+<https://github.com/IntelRealSense/librealsense/releases/download/v2.33.1/Intel.RealSense.SDK-WIN10-2.33.1.1360.exe>\
+<https://github.com/IntelRealSense/librealsense/releases/download/v2.33.1/Intel.RealSense.Viewer.exe>\
+\
+When the downloadings are finished it is time to install the SDK for Windows 10 and Realsense Viewer. Double click on the executable file to install the SDK
+```
+Intel.RealSense.SDK-WIN10-2.33.1.1360.exe
+```
+After the install librealsensviewer will open and you can know connect the Intel Realsense Depth Camera.  Know you are ready to try it out on your Windows 10 laptop.
+
+## Test Intel Realsense Depth 415 camera in vmWare with Ubuntu Mate
+
+
+
+
+
+
+
 
 
 
