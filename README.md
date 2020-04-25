@@ -6,22 +6,24 @@ The first thing is to go to the following websites for downloading vmWare and Ub
 <https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html>\
 <https://ubuntu-mate.org/download/i386/>
 
-To display your version of Ubuntu Mate type the follwing command in the terminal\
+To display your version of Ubuntu Mate type the follwing command in the terminal
 ```
 lsb_release -a
 ```
 
 After that install a supported linux kernel. One kernel that can be used is kernel version.
-This is done by using the following commands in the terminal windiow\
-sudo apt upgrade\
-sudo apt install\
-sudo apt reboot\
-\
-sudo apt install linux-image-4.15.0-30-generic\
-sudo apt install linux-image-extra-4.15.0-30-generic\
-sudo apt install linux-headers-4.15.0-30-generic\
-sudo upgrade-grube\
-\
+This is done by using the following commands in the terminal windiow
+```
+sudo apt upgrade
+sudo apt install
+sudo apt reboot
+```
+```
+sudo apt install linux-image-4.15.0-30-generic
+sudo apt install linux-image-extra-4.15.0-30-generic
+sudo apt install linux-headers-4.15.0-30-generic
+sudo upgrade-grube
+```
 Now has a new kernel been installed, change kernel reboot the virtual machine
 sudo reboot
 \
