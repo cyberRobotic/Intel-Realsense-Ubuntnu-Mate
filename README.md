@@ -174,6 +174,18 @@ This will give the follwing output if not a camera is connected.
 hello from librealsens - 2.34.0
 You have 0 Realsense devices connected
 ```
+Finally the time has came to apply the camera to your virutall machine. But we need to prepare vmWare to be capable wiht external devices. This is donne by clicking on the Player tab, find the usb port in the list a click connect (Disconect from host).
+Now are your Intel realsense camera connected to the virutal machine.
+
+Go to the directory and excute the object file
+```
+cd librealsense/examples/cmake
+./hello_librealsense2
+```
+If everything went well then the displayed output from the terminal is
+```
+
+```
 
 
 
