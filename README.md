@@ -174,7 +174,7 @@ This will give the follwing output if not a camera is connected.
 hello from librealsens - 2.34.0
 You have 0 Realsense devices connected
 ```
-Finally the time has came to apply the camera to your virutall machine. But we need to prepare vmWare to be capable wiht external devices. This is donne by clicking on the Player tab, find the usb port in the list a click connect (Disconect from host). It is also possible that the vmWare detected your Intel Realsense camera if it does a widow will popp up. Click on Connect to a virutal machine and choose the name on your virutal machine a click ok.\
+Finally the time has come to apply the camera to your virutall machine. But we need to prepare vmWare to be capable wiht external devices. This is donne by clicking on the Player tab, find the usb port in the list a click connect (Disconect from host). It is also possible that the vmWare detected your Intel Realsense camera if it does a widow will popp up. Click on Connect to a virutal machine and choose the name on your virutal machine a click ok.\
 \
 Now are your Intel realsense camera connected to the virutal machine.
 
