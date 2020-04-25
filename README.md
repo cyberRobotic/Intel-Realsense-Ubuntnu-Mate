@@ -37,8 +37,8 @@ Open a terminal window type the command
 ```
 sudo uname -r
 ```
-This command displays wich kernel versio your Ubuntu Mate is running with.
-\\
+This command displays wich kernel versio your Ubuntu Mate is running with.\
+\
 To upgradre the your package in the kernel type the follwing commands.
 ```
 sudo apt upgrdae
@@ -75,7 +75,7 @@ sudo reboot
 Finally we can install librealsense to get the Intel realsense camera to work.\
 The guide to install librealsense is given in the follwing link bellow or you can follow the steps bellow.\
 <https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md>\
-\\
+\
 Get your Ubuntu up to date
 ```
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
