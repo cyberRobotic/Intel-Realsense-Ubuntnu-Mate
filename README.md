@@ -34,8 +34,8 @@ Open a terminal window type the command
 ```
 sudo uname -r
 ```
-This command displays wich kernel versio your Ubuntu Mate is running with.\
-\
+This command displays wich kernel versio your Ubuntu Mate is running with.
+\\
 To upgradre the your package in the kernel type the follwing commands.
 ```
 sudo apt upgrdae
