@@ -41,7 +41,7 @@ This command displays wich kernel versio your Ubuntu Mate is running with.\
 \
 To upgradre the your package in the kernel type the follwing commands.
 ```
-sudo apt upgrdae
+sudo apt upgrade
 sudo apt install
 sudo apt reboot
 ```
