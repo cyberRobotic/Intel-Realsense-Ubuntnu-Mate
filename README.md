@@ -7,7 +7,9 @@ The first thing is to go to the following websites for downloading vmWare and Ub
 <https://ubuntu-mate.org/download/i386/>
 
 To display your version of Ubuntu Mate type the follwing command in the terminal\
+'''
 lsb_release -a
+'''
 
 After that install a supported linux kernel. One kernel that can be used is kernel version.
 This is done by using the following commands in the terminal windiow\
