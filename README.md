@@ -107,7 +107,7 @@ message dmesg:... uvcvideo: module verification failed: signature and/or require
 ```
 Finaly run the command
 ```
-echo 'hid_sensor_custom' | sudo tee -a /etc/modules\
+echo 'hid_sensor_custom' | sudo tee -a /etc/modules
 ```
 You can run the follwing command to check if everything has been successfully installed.
 ```
