@@ -2,6 +2,6 @@
 This guide shows how to setup a cmake file for compling a librealsense project
 
 ```cmake
-cmake_minimum_requierd(VERSION 3.1.0)
+cmake_minimum_required(VERSION 3.1.0)
 ```
 
