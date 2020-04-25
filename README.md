@@ -160,7 +160,7 @@ This is done by the follwing commands
 cmake .
 make
 ```
-
+It is important to have dot after cmake and the file name CMakeLists. If this is not there than will it not make an excutable file.
 This will genrate an object file with the name samme name as the cpp file. The exutable/ object file will bee in green 
 ```Diff
 + hello_librealsense2
