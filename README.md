@@ -136,6 +136,47 @@ Intel.RealSense.SDK-WIN10-2.33.1.1360.exe
 After the install librealsensviewer will open and you can know connect the Intel Realsense Depth Camera.  Know you are ready to try it out on your Windows 10 laptop.
 
 ## Test Intel Realsense Depth 415 camera in vmWare with Ubuntu Mate
+To test your connectio with Intel Realsense Depth 415 camera navigate to 
+```
+cd librealsense/examples/cmake
+```
+Here is an example file with the name 
+```
+hello_librealsense2.cpp
+```
+If you have installed a text editor like vim than is it possible to open it with the follwing command
+```
+vim hello_librealsense2.cpp
+```
+If not you can install vim with the follwing command
+```
+sud install vim
+```
+This will show you an example file that tells about connection with the Intel Realsens Camera D415 or other Intel Realsense Cameras that is plugged in to your computer.
+
+We need to compile the file before you can show the connection with cameara.
+This is done by the follwing commands
+```
+cmake .
+make
+```
+
+This will genrate an object file with the name samme name as the cpp file. The exutable/ object file will bee in green 
+```Diff
++ hello_librealsense2
+```
+This object file is executable and you can excute it with the follwing command
+```
+./hello_librealsense2
+```
+This will give the follwing output if not a camera is connected.
+```
+hello from librealsens - 2.34.0
+You have 0 Realsense devices connected
+```
+
+
+
 
 
 
