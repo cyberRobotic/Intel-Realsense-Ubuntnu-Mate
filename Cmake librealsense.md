@@ -1,5 +1,5 @@
 # Cmake and make file for Intel realsenslib
-This guide shows how to setup a cmake file for compling a librealsense project
+This guide shows how to setup a cmake file for making a make file for a librealsense project
 
 ```cmake
 # Minimum requier version of cmake
