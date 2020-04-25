@@ -25,7 +25,7 @@ Now you are ready to use cmake to make a Make file with the follwing commands wi
 ```
 cmake .
 make
-'''
+```
 
 It has been made an excutable files with the name of the project. \
 Example project_name.o
