@@ -2,6 +2,7 @@
 
 This guide describes who to install Ubuntu Mate in vmWare and test a Intel Realsense Camera D415.
 
+## Install 
 The first thing is to go to the following websites for downloading vmWare and Ubuntu Mate 32 bit version. 
 <https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html>\
 <https://ubuntu-mate.org/download/i386/>
@@ -10,14 +11,16 @@ To display your version of Ubuntu Mate type the follwing command in the terminal
 ```
 lsb_release -a
 ```
-
-After that install a supported linux kernel. One kernel that can be used is kernel version.
-This is done by using the following commands in the terminal windiow
+Get your Ubuntnu Mate up to date by using the commands bellow 
 ```
 sudo apt upgrade
 sudo apt install
 sudo apt reboot
 ```
+## Install and update new kernel on Ubuntnu
+After that install a supported linux kernel is need to bee install to get librealsense working. One kernel that can be used is kernel version.\
+This is done by using the following commands in the terminal windiow
+
 ```
 sudo apt install linux-image-4.15.0-30-generic
 sudo apt install linux-image-extra-4.15.0-30-generic
@@ -68,6 +71,7 @@ It can bee nice to reboot the virtual machine again
 ```
 sudo reboot
 ```
+## Install guide librealsense
 Finally we can install librealsense to get the Intel realsense camera to work.\
 The guide to install librealsense is given in the follwing link bellow or you can follow the steps bellow.\
 <https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md>\
