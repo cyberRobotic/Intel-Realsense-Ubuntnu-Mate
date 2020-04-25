@@ -21,3 +21,12 @@ set(CMAKE_CXX_REQUIERD TRUE)
 add_executable($(PROJECT_NAME) choose alle the project files (cpp files) within the project)
 ```
 
+Now you are ready to use cmake to make a Make file with the follwing commands with in the same folder
+```
+cmake .
+make
+'''
+
+It has been made an excutable files with the name of the project. \
+Example project_name.o
+
