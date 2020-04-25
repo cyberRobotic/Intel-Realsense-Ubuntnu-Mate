@@ -1,4 +1,3 @@
-```cpp
 #include <librealsense2/rs.hpp>
 #include <librealsense2/hpp/rs_internal.hpp>
 #include <iostream>
@@ -12,4 +11,3 @@ int main()
   return 0;
 }
   
-```
