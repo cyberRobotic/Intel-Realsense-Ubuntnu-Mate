@@ -182,7 +182,7 @@ Go to the directory and excute the object file
 cd librealsense/examples/cmake
 ./hello_librealsense2
 ```
-If everything went well then the displayed output from the terminal is if everything went well than congratulation. You have now sucssefully instaled librealsense on Ubuntu Mate and are now ready to use it :)
+If everything went well then the displayed output from the terminal is if everything went well than congratulation. You have now sucssefully instaled librealsense on Ubuntu Mate and are now ready to use it :smirk:
 ```
 
 ```
